@@ -6,7 +6,6 @@ General Idea
 ===
 - Casino games
 - Player database
-- Allow buy-ins using site currencies
 
 Games Done
 ===
